@@ -343,6 +343,7 @@ span{
 @media (max-width: 778px){
     #menu-icon{
         display: block;
+        margin-right: 9rem;
     }
     .navbar{
         position: absolute;
